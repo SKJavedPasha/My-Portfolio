@@ -1,0 +1,1 @@
+alert("View in Desktop Site For Better Experience #Landscape mode");
